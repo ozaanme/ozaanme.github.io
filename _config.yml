@@ -1,5 +1,5 @@
 # Site settings
-title: ozan website
+title: ozan
 description: "ozan's website." # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -26,14 +26,13 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: Ozan Mert Erol # add your name
 author-pic: 
-about-author: 
+about-author: electrical-electronics engineering senior at metu
 
 # Contact links
-email: ozanmerterol61@gmail.com # Add your Email address
 email: ozaan.me@outlook.com # Add your Email address
 phone: # Add your Phone number
 website: https://ozaanme.github.io # Add your website
-linkedin: amaynez # Add your Linkedin handle
+linkedin: ozanmerterol # Add your Linkedin handle
 github: ozaanme # Add your Github handle
 
 # Newsletter
