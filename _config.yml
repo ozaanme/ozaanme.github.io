@@ -25,7 +25,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Ozan Mert Erol # add your name
-author-pic:
+author-pic: photo.jpg
 about-author: electrical-electronics engineering senior at metu
 
 # Contact links
